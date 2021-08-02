@@ -1,0 +1,5 @@
+/data
+/lightning_logs
+/.idea
+*.pth
+submission.csv
